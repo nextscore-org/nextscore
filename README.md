@@ -2,7 +2,7 @@
 
 > **Next-Generation Interactive Sheet Music Studio, 60fps Waterfall Piano Visualizer, Real-Time Multiplayer Jamming & Bluetooth BLE-MIDI Smart Instrument Sync.**
 
-🌐 **Official Website:** [https://nextscore.org](https://nextscore.org/) · 🎼 **Online Notation Studio:** [https://nextscore.org/studio/](https://nextscore.org/studio/) · 📚 **Open Sheet Music Catalog (505+ Free Scores):** [nextscore-org/open-piano-sheet-music](https://github.com/nextscore-org/open-piano-sheet-music) · 📖 **Live Catalog (GitHub Pages):** [nextscore-org.github.io/open-piano-sheet-music](https://nextscore-org.github.io/open-piano-sheet-music/)
+🌐 **Official Website:** [https://nextscore.org](https://nextscore.org/) · 🎼 **Online Notation Studio:** [https://nextscore.org/studio/](https://nextscore.org/studio/) · 📚 **Open Sheet Music Catalog (515+ Free Scores):** [nextscore-org/open-piano-sheet-music](https://github.com/nextscore-org/open-piano-sheet-music) · 📖 **Live Catalog (GitHub Pages):** [nextscore-org.github.io/open-piano-sheet-music](https://nextscore-org.github.io/open-piano-sheet-music/)
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Resource | Link |
 |----------|------|
-| **Interactive Score Library (505+ Scores, 28+ Composers)** | [https://nextscore.org/](https://nextscore.org/) |
+| **Interactive Score Library (515+ Scores, 28+ Composers)** | [https://nextscore.org/](https://nextscore.org/) |
 | **Open Piano Sheet Music & MusicXML GitHub Catalog** | [github.com/nextscore-org/open-piano-sheet-music](https://github.com/nextscore-org/open-piano-sheet-music) |
 | **Static Web Catalog (GitHub Pages)** | [https://nextscore-org.github.io/open-piano-sheet-music/](https://nextscore-org.github.io/open-piano-sheet-music/) |
 | **AI & Developer Open API Spec (`llms.txt`)** | [https://nextscore.org/llms.txt](https://nextscore.org/llms.txt) |
